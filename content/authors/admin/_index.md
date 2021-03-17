@@ -4,7 +4,10 @@ role: Associate Profess of Bioinformatics
 avatar_filename: 圆图.png
 bio: My research interests include cancer genomics, bioinformaitcs tool
   development, high-performance computing and machine leanring
-interests: []
+interests:
+  - Cancer genomics
+  - bioinformatics
+  - Application of Machine Learning in Cancer Research.
 social:
   - icon: envelope
     icon_pack: fas
@@ -35,7 +38,4 @@ user_groups:
   - Leader
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+ **Qi Zhao** is currently an associate professor of cancer genomics in Sun Yat-sen University Cancer Center (SYSUCC). He gained his Ph.D of Bioinformatics at Sun Yat-sen university in 2016.  Then he finished a 3-year Postdoc training in Oncology at Sun Yat-sen Cancer Center. During the period of postdoc training, Dr Zhao was one of the core members in bioinformatics center of the department and mainly charged with development and deployment of NGS pipeline in high performance computing clusters.  He joined Sun Yat-sen University Cancer Center as an Associate Professor in November 2019. His main research interest are cancer bioinformatics and biomarker discovery from multi-omic cancer dataset. He has published more than 50 peer-reviewed papers, including some papers in high impact journals such as JAMA oncology, Cell research, Science Transl Med, EMBO Mol Med. Nucleic Acid Res and Briefings in Bioinformatics.
