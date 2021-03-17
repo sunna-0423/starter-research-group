@@ -1,7 +1,7 @@
 ---
 title: Qi Zhao
 role: Associate Profess of Bioinformatics
-avatar_filename: 圆图.png
+avatar_filename: https://i.ibb.co/6DL7PYj/image.png
 bio: My research interests include cancer genomics, bioinformaitcs tool
   development, high-performance computing and machine leanring
 interests:
